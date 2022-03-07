@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/amuamushu/artifact-directory-template.git",
+    "project-repository": "https://github.com/amuamushu/adv_avod_ssn.git",
+    "dockerhub-repository": "amytn/avod-adv:latest",
+    "project-website-url": "https://ayushmore.github.io/adversarial-avod/",
+    "project-website-code": "https://github.com/ayushmore/adversarial-avod.git"
 }
