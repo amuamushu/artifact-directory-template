@@ -1,5 +1,5 @@
 Title:
-Improving Robustness in Deep Fusion Modeling via Adversarial Training
+Improving Robustness in Deep Fusion Modeling Against Adversarial Attacks
 
 Abstract:
 Autonomous vehicles rely heavily on deep fusion modeling, which utilize multiple inputs for its inferences and decision making. By using the shared information from these inputs, the deep fusion model benefits from shared information, which is primarily associated with robustness as these input sources can face different levels of corruption. Thus, it is highly important that the deep fusion models used in autonomous vehicles are robust to corruption, especially to input sources that are weighted more heavily in different conditions. We explore a different approach in training the robustness for a deep fusion model through adversarial training. We fine-tune a clean model with adversarial examples and evaluate its robustness against single source noise. We believe that this is relevant given the risks that autonomous vehicles pose to pedestrians - it is important that we ensure the inferences and decisions made by the model are robust against corruption, especially if it is intentional from outside threats.
