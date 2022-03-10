@@ -2,6 +2,6 @@
     "this-repository": "https://github.com/amuamushu/artifact-directory-template.git",
     "project-repository": "https://github.com/amuamushu/adv_avod_ssn.git",
     "dockerhub-repository": "amytn/avod-adv:latest",
-    "project-website-url": "https://ayushmore.github.io/adversarial-avod/",
-    "project-website-code": "https://github.com/ayushmore/adversarial-avod.git"
+    "project-website-url": "https://ayushmore.github.io/2022-03-07-improving-robustness-via-adversarial-training/",
+    "project-website-code": "https://github.com/ayushmore/ayushmore.github.io.git"
 }
